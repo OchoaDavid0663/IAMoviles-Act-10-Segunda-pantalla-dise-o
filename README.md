@@ -1,16 +1,4 @@
-# myapp
+# IAMoviles-Act-10-Segunda-pantalla-dise-o
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="533" height="801" alt="image" src="https://github.com/user-attachments/assets/d66db347-92d8-4ba3-a881-b2103c7ae62c" />
+<img width="383" height="641" alt="image" src="https://github.com/user-attachments/assets/9be65eb4-944f-4b4e-9f1b-f9a2369c80ed" />
